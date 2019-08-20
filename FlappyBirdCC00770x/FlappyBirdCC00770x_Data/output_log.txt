@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730   (ID=0x1287)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   10.18.13.5582
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.150 seconds
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\HOC TAP\FUNIX\CC2\GAD_101x\FlappyBirdCC00770x\FlappyBirdCC00770x_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 14.254602 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.729361 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 629.
+Total: 0.436351 ms (FindLiveObjects: 0.046018 ms CreateObjectMapping: 0.029796 ms MarkObjects: 0.250289 ms  DeleteObjects: 0.109915 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628042 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.487667 ms (FindLiveObjects: 0.023837 ms CreateObjectMapping: 0.032444 ms MarkObjects: 0.290018 ms  DeleteObjects: 0.141036 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1714 -> priority: 1 
+  Thread -> id: 12c4 -> priority: 1 

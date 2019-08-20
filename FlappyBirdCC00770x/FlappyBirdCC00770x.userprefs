@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ComponentsController\BackGroundController\BackGroundRepeat.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ScenesController\MainMenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScenesController\GamePlayController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\BirdController\BirdController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScenesFader\LevelChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\PipeController\BreakPipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\PipeController\InitPipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\PipeController\PipeHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\GroundController\GroundRepeat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ComponentsController\BackGroundController\BackGroundRepeat.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
